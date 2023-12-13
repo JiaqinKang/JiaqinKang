@@ -7,7 +7,7 @@
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: check my blog(check my GitHub page carefully) for my email or add me on discord: AloneOnTheWay#2540
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I manufactured in China and now living in the UK 
+- ⚡ Fun fact: I came from where everything is made, guess where?
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaqinKang)](https://github.com/anuraghazra/github-readme-stats)
