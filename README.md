@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything AI/ml related
 - 🤔 I’m looking for help with anything AI/ml related
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: check my blog for my email or discord: 382593890508603403
+- 📫 How to reach me: check my blog(check my GitHub page carefully) for my email or add me on discord: AloneOnTheWay#2540
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I manufactured in China and now living in the UK 
 
