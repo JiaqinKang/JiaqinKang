@@ -9,5 +9,7 @@
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I came from where everything is made, guess where?
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaqinKang&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jiaqinkang&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Jiaqinkang&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jiaqinkang&layout=compact&theme=radical)
 
